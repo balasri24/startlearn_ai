@@ -1,7 +1,7 @@
 # Run and deploy your AI Studio app
 This contains everything you need to run your app locally.
 ## Live Demo
-[Start Learn AI - Live Website](https://startlearn-ai.loronder.com)
+[Start Learn AI - Live Website](https://startlearn-ai-1.onrender.com)
 ## Run Locally
 
 **Prerequisites:**  Node.js
